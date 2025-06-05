@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProjetoFaculdade\\AgendaContatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|c:\\projetofaculdade\\agendacontatos\\agendacontatos\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|c:\\projetofaculdade\\agendacontatos\\agendacontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|c:\\projetofaculdade\\agendacontatos\\agendacontatos\\controllers\\gruposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\controllers\\gruposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "AgendaContatos\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:30:36.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GruposController.cs",
+              "DocumentMoniker": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\Controllers\\GruposController.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Controllers\\GruposController.cs",
+              "ToolTip": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\Controllers\\GruposController.cs",
+              "RelativeToolTip": "AgendaContatos\\Controllers\\GruposController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:30:32.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "AgendaContatos\\Controllers\\ContatoController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAswEcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:30:20.663Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

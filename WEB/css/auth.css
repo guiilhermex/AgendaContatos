@@ -1,0 +1,74 @@
+/* Fundo e fonte base */
+body {
+  background-color: #e4cbaf !important;
+  color: #2b3e2f;
+  font-family: 'Comfortaa', cursive;
+  margin: 0;
+  padding: 0;
+}
+
+/* Cartão centralizado */
+.card {
+  border: none;
+  border-radius: 1rem;
+  box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+}
+
+.card h2 {
+  font-weight: 600;
+  color: #386641;
+}
+
+/* Formulário */
+form label {
+  font-weight: 600;
+  color: #386641;
+}
+
+form input.form-control {
+  border-radius: 0.5rem;
+  border: 2px solid #6A994E;
+  padding: 0.6rem 1rem;
+  font-size: 16px;
+  color: #2b3e2f;
+}
+
+form input.form-control:focus {
+  border-color: #386641;
+  box-shadow: 0 0 5px rgba(56, 102, 65, 0.5);
+  outline: none;
+}
+
+/* Botão */
+.btn-primary {
+  background-color: #6A994E;
+  border-color: #386641;
+  color: #fff;
+  border-radius: 0.5rem;
+  padding: 0.6rem;
+  font-weight: 500;
+}
+
+.btn-primary:hover {
+  background-color: #386641;
+  border-color: #2b3e2f;
+}
+
+/* Link */
+form a {
+  font-size: 0.9rem;
+  color: #386641;
+  text-decoration: none;
+}
+
+form a:hover {
+  text-decoration: underline;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 576px) {
+  .card {
+    padding: 1.5rem 1rem;
+  }
+}

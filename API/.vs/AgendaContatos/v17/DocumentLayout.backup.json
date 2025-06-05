@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProjetoFaculdade\\AgendaContatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|c:\\projetofaculdade\\agendacontatos\\agendacontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|c:\\projetofaculdade\\agendacontatos\\agendacontatos\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|c:\\projetofaculdade\\agendacontatos\\agendacontatos\\models\\usuariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\models\\usuariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|c:\\projetofaculdade\\agendacontatos\\agendacontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|c:\\projetofaculdade\\agendacontatos\\agendacontatos\\controllers\\gruposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\controllers\\gruposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|c:\\projetofaculdade\\agendacontatos\\agendacontatos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|c:\\projetofaculdade\\agendacontatos\\agendacontatos\\models\\contatosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\models\\contatosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|c:\\projetofaculdade\\agendacontatos\\agendacontatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E77FCF7D-1C49-4739-9D3A-8A65B09C65ED}|AgendaContatos\\AgendaContatos.csproj|solutionrelative:agendacontatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosModel.cs",
+              "DocumentMoniker": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\Models\\UsuariosModel.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Models\\UsuariosModel.cs",
+              "ToolTip": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\Models\\UsuariosModel.cs",
+              "RelativeToolTip": "AgendaContatos\\Models\\UsuariosModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T20:31:14.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AgendaContatos\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AgendaContatos\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T12:47:15.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContatosModel.cs",
+              "DocumentMoniker": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\Models\\ContatosModel.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Models\\ContatosModel.cs",
+              "ToolTip": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\Models\\ContatosModel.cs",
+              "RelativeToolTip": "AgendaContatos\\Models\\ContatosModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:43:34.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\appsettings.json",
+              "RelativeDocumentMoniker": "AgendaContatos\\appsettings.json",
+              "ToolTip": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\appsettings.json",
+              "RelativeToolTip": "AgendaContatos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T12:42:31.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\Program.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Program.cs",
+              "ToolTip": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\Program.cs",
+              "RelativeToolTip": "AgendaContatos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:41:59.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "AgendaContatos\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:30:36.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GruposController.cs",
+              "DocumentMoniker": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\Controllers\\GruposController.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Controllers\\GruposController.cs",
+              "ToolTip": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\Controllers\\GruposController.cs",
+              "RelativeToolTip": "AgendaContatos\\Controllers\\GruposController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:30:32.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "AgendaContatos\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\ProjetoFaculdade\\AgendaContatos\\AgendaContatos\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "AgendaContatos\\Controllers\\ContatoController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAswEcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:30:20.663Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

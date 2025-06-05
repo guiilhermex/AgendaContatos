@@ -1,0 +1,169 @@
+body {
+  background-color: #e4cbaf;
+  color: #2b3e2f;
+  font-family: 'Comfortaa', cursive;
+}
+
+.logo-header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 20px;
+}
+
+.logo {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.divider {
+  border: none;
+  height: 2px;
+  background-color: #386641;
+  margin: 0 20px;
+}
+
+.title {
+  margin: 0;
+  padding: 0;
+  font-size: 28px;
+  font-weight: bold;
+  color: #386641;
+  line-height: 1.2;
+}
+
+/* Tabela geral */
+table {
+  background-color: #6A994E;
+  border-color: #6A994E;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+table th {
+  background-color: #386641;
+  color: #fff;
+}
+
+.table-secondary th {
+  background-color: #588157;
+  color: #fff;
+}
+
+table td {
+  background-color: #A7C957;
+  color: #2b3e2f;
+  vertical-align: middle;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: #91b548;
+}
+
+table tr:hover {
+  background-color: #7da542;
+}
+
+/* Botões */
+.btn-primary {
+  background-color: #6A994E;
+  border-color: #386641;
+  color: #fff;
+}
+
+.btn-primary:hover {
+  background-color: #386641;
+  border-color: #2b3e2f;
+}
+
+.btn-secondary {
+  background-color: #A7C957;
+  border-color: #6A994E;
+  color: #fff;
+}
+
+.btn-secondary:hover {
+  background-color: #6A994E;
+  border-color: #386641;
+}
+
+.btn-success {
+  background-color: #588157;
+  border-color: #386641;
+  color: #fff;
+}
+
+.btn-success:hover {
+  background-color: #386641;
+  border-color: #2b3e2f;
+}
+
+/* Modal */
+.modal-header {
+  background-color: #6A994E;
+  color: #fff;
+  border-bottom: none;
+}
+
+.modal-footer {
+  background-color: #6A994E;
+  border-top: none;
+}
+
+form .inputField > div label {
+  color: #386641;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+form .inputField > div input {
+  background-color: #ffffff;
+  border: 2px solid #6A994E;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 16px;
+  color: #2b3e2f;
+}
+
+form .inputField > div input:focus {
+  outline: none;
+  border-color: #386641;
+  box-shadow: 0 0 5px rgba(56, 102, 65, 0.5);
+}
+
+select.form-select {
+  background-color: #ffffff;
+  border: 2px solid #6A994E;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 16px;
+  color: #2b3e2f;
+}
+
+select.form-select:focus {
+  outline: none;
+  border-color: #386641;
+  box-shadow: 0 0 5px rgba(56, 102, 65, 0.5);
+}
+
+/* Input + botão "Criar Grupo" (caso use novamente) */
+.input-group .form-control {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.input-group .btn {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+/* Seções */
+h4 {
+  color: #386641;
+  font-weight: bold;
+  margin-top: 30px;
+}
